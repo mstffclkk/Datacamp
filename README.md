@@ -1,3 +1,10 @@
-# I will share my progress on datacamp
+# DATACAMP Data Scientist with Python
+---
 
-https://www.datacamp.com/profile/mstffclkk
+## 1) Introduction to Python ✅
+
+## 2) Intermediate to Python ✅
+
+## 3) Project: Investigating Netflix Movies and Guest Stars in The Office ✅
+
+## 4) Data Manipulation with pandas ✅
